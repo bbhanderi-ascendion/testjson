@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "id": 91,
+      "specialty": "Family Practice",
+      "locationId": "BRIM",
+      "appointmentType": "Consultation",
+      "patientID": "E6SX6L8J",
+      "slotDate": "2025-04-28T10:30:00",
+      "requestedPeriodStart": "2025-04-25T10:00:00",
+      "requestedPeriodEnd": "2025-04-25T11:00:00",
+      "actorType": "Practitioner",
+      "actorID": "PRACT128",
+      "createdDate": "2025-04-28T09:49:43.2099734",
+      "resourceID": "b2244f4b-a679-42f7-a",
+      "bookedBy": 86,
+      "status": "Requested",
+      "description": null,
+      "comment": null,
+      "paymentMethod": null,
+      "slotDuration": null,
+      "bookedFor": 3,
+      "patientInstruction": null,
+      "doctorDetails": {
+        "givenName": "Choudhary",
+        "familyName": "Raj",
+        "middleName": "T",
+        "resourceId": "PRACT128",
+        "photoUrl": "http://example.com/photos/female_doctor.jpg"
+      },
+      "patientDetails": {
+        "email": "user@example.com",
+        "phoneNumber": "12345",
+        "patientIdentifierValue": "1234",
+        "countryCode": null,
+        "gender": "M",
+        "birthDate": "2025-04-11T10:36:20.38",
+        "familyName": "",
+        "givenName": "Test23",
+        "middelName": "",
+        "age": "0years 0months",
+        "patientPhoto": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      "locationDetails": {
+        "resourceId": "BRIM",
+        "alias": null,
+        "address": null,
+        "name": "COLUMBIA ASIA HOSPITAL BUKIT RIMAU",
+        "state": "Delhi",
+        "city": "Delhi",
+        "country": "India",
+        "postalCode": "411926",
+        "addressLine1": "Line1",
+        "altitude": "0",
+        "addressLine2": null,
+        "latitude": "3.06",
+        "longitude": "101.69"
+      },
+      "userDetails": {
+        "fullName": "Amaran",
+        "salutation": "Miss",
+        "preferredName": "ABC",
+        "relationshipCategory": "Others"
+      }
+    }
+  ],
+  "count": null,
+  "message": null,
+  "messageType": "SUCCESS",
+  "statusCode": "200",
+  "isSuccess": true,
+  "hasError": false,
+  "paginationQuery": null,
+  "currentPage": 0,
+  "pageSize": 0
+};
