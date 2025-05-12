@@ -3,7 +3,7 @@
     {
       "id": 91,
       "specialty": "Family Practice",
-      "locationId": "BRIM",
+      "locationId": "test data",
       "appointmentType": "Consultation",
       "patientID": "E6SX6L8J",
       "slotDate": "2025-04-28T10:30:00",
